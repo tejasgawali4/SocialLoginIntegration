@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocialLoginIntegration</string>
+    <string name="facebook_app_id">394791837584718</string>
+    <string name="fb_login_protocol_scheme">fb394791837584718</string>
+    <string name="lggin">Lggin</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="forgot_password_click_here">Forgot Password..?Click Here</string>
+</resources>

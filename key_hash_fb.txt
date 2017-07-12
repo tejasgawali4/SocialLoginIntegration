@@ -1,0 +1,1 @@
+keytool -exportcert -alias YOUR_RELEASE_KEY_ALIAS -keystore C:\Program Files\Java\jre1.8.0_101\bin\debug.keystore | C:\Users\tejas\Desktop\bin\openssl sha1 -binary | C:\Users\tejas\Desktop\bin\openssl base64
