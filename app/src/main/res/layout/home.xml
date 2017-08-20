@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/AccessToken"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Access_token" />
+
+    <TextView
+        android:id="@+id/Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name" />
+
+    <TextView
+        android:id="@+id/Surname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Surname" />
+
+    <ImageView
+        android:id="@+id/ImgUrl"
+        android:layout_width="279dp"
+        android:layout_height="278dp"
+        app:srcCompat="@color/cardview_shadow_start_color" />
+
+</LinearLayout>
